@@ -1,2 +1,2 @@
-a = int(input('Enter your name '))
+a = int(input('Enter any number '))
 print(a)
